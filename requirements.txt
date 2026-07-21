@@ -1,0 +1,7 @@
+scholarly
+bibtexparser
+pypdf
+requests
+beautifulsoup4
+lxml
+crossrefapi

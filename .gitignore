@@ -1,0 +1,35 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# User downloaded papers
+users/*/incoming/*
+users/*/papers/*
+users/*/manual/*
+
+# Keep directory structure
+!users/*/.gitkeep
+!users/*/incoming/.gitkeep
+!users/*/papers/.gitkeep
+!users/*/bib/.gitkeep
+!users/*/manual/.gitkeep
+
+# Logs
+*.log
+users/*/logs/*
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Credentials
+.env
+*.token
+*.cookie
+
