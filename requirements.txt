@@ -5,3 +5,5 @@ requests
 beautifulsoup4
 lxml
 crossrefapi
+beautifulsoup4 
+lxml

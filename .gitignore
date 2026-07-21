@@ -4,10 +4,11 @@ __pycache__/
 *.py[cod]
 
 # User downloaded papers
+users
 users/*/incoming/*
 users/*/papers/*
 users/*/manual/*
-
+import/*
 # Keep directory structure
 !users/*/.gitkeep
 !users/*/incoming/.gitkeep
