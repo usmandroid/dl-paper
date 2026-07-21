@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+sudo apt install curl wget poppler-utils python3 python3-pip -y
+
 PROJECT="$HOME/dl-paper"
 
 mkdir -p "$PROJECT"
